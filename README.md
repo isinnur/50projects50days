@@ -7,3 +7,4 @@
 | [Blurry Loading](https://github.com/isinnur/50projects50days/tree/main/day5-blurry-loading)                       |    [05](https://gentle-alfajores-2a5bde.netlify.app)|
 | [Scroll Animation](https://github.com/isinnur/50projects50days/tree/main/day6-scroll-animation)                       |    [06](https://musical-stardust-b1ff7a.netlify.app)|
 | [Split Landing Page](https://github.com/isinnur/50projects50days/tree/main/day7-split-landing-page)                       |    [07](https://prismatic-croquembouche-ae9e1a.netlify.app)|
+| [Form Wave Animation](https://github.com/isinnur/50projects50days/tree/main/day8-form-wave-animation)                       |    [08](https://zingy-chebakia-178b0d.netlify.app)|
