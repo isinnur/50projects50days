@@ -9,3 +9,4 @@
 | [Split Landing Page](https://github.com/isinnur/50projects50days/tree/main/day7-split-landing-page)                       |    [07](https://prismatic-croquembouche-ae9e1a.netlify.app)|
 | [Form Wave Animation](https://github.com/isinnur/50projects50days/tree/main/day8-form-wave-animation)                       |    [08](https://zingy-chebakia-178b0d.netlify.app)|
 | [Sound Board](https://github.com/isinnur/50projects50days/tree/main/day9-sound-board)                       |    [09](https://strong-llama-3278a1.netlify.app)|
+| [Dad Jokes](https://github.com/isinnur/50projects50days/tree/main/day10-dad-jokes)                       |    [10](https://heartfelt-cactus-0b59d3.netlify.app)|
