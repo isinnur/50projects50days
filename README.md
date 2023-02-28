@@ -12,3 +12,4 @@
 | [Dad Jokes](https://github.com/isinnur/50projects50days/tree/main/day10-dad-jokes)                       |    [10](https://heartfelt-cactus-0b59d3.netlify.app)|
 | [Event KeyCodes](https://github.com/isinnur/50projects50days/tree/main/day11-event-keyCodes)                       |    [11](https://profound-froyo-3ce88e.netlify.app)|
 | [Faq Collapse](https://github.com/isinnur/50projects50days/tree/main/day12-faq-collapse)                       |    [12](https://spectacular-brioche-757c9e.netlify.app)|
+| [Random Choice Picker](https://github.com/isinnur/50projects50days/tree/main/day13-random-choice-picker)                       |    [13](https://neon-mandazi-b9f73a.netlify.app)|
