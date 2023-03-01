@@ -13,3 +13,4 @@
 | [Event KeyCodes](https://github.com/isinnur/50projects50days/tree/main/day11-event-keyCodes)                       |    [11](https://profound-froyo-3ce88e.netlify.app)|
 | [Faq Collapse](https://github.com/isinnur/50projects50days/tree/main/day12-faq-collapse)                       |    [12](https://spectacular-brioche-757c9e.netlify.app)|
 | [Random Choice Picker](https://github.com/isinnur/50projects50days/tree/main/day13-random-choice-picker)                       |    [13](https://neon-mandazi-b9f73a.netlify.app)|
+| [Animated Navigation](https://github.com/isinnur/50projects50days/tree/main/day14-animated-navigation)                       |    [14](https://zingy-duckanoo-f67eb4.netlify.app)|
