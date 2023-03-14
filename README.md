@@ -23,3 +23,4 @@
 | [Drag N Drop](https://github.com/isinnur/50projects50days/tree/main/drag-n-drop)                       |    [21](https://ornate-arithmetic-ce3cfe.netlify.app/)|
 | [Drowing App](https://github.com/isinnur/50projects50days/tree/main/drawing-app)                       |    [22](https://gilded-muffin-d9ed27.netlify.app)|
 | [Kinetic Loader](https://github.com/isinnur/50projects50days/tree/main/kinetic-css-loader)                       |    [23](https://helpful-maamoul-7015d0.netlify.app)|
+| [Content Placeholder](https://github.com/isinnur/50projects50days/tree/main/content-placeholder)                       |    [24](https://eclectic-marigold-0f48d8.netlify.app)|
