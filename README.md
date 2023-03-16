@@ -25,3 +25,4 @@
 | [Kinetic Loader](https://github.com/isinnur/50projects50days/tree/main/kinetic-css-loader)                       |    [23](https://helpful-maamoul-7015d0.netlify.app)|
 | [Content Placeholder](https://github.com/isinnur/50projects50days/tree/main/content-placeholder)                       |    [24](https://eclectic-marigold-0f48d8.netlify.app)|
 | [Sticky Navbar](https://github.com/isinnur/50projects50days/tree/main/sticky-navbar)                       |    [25](https://majestic-gumption-8de042.netlify.app)|
+| [Vertical Slider](https://github.com/isinnur/50projects50days/tree/main/double-vertical-slider)                       |    [26](https://tourmaline-horse-108c5f.netlify.app)|
