@@ -26,3 +26,4 @@
 | [Content Placeholder](https://github.com/isinnur/50projects50days/tree/main/content-placeholder)                       |    [24](https://eclectic-marigold-0f48d8.netlify.app)|
 | [Sticky Navbar](https://github.com/isinnur/50projects50days/tree/main/sticky-navbar)                       |    [25](https://majestic-gumption-8de042.netlify.app)|
 | [Vertical Slider](https://github.com/isinnur/50projects50days/tree/main/double-vertical-slider)                       |    [26](https://tourmaline-horse-108c5f.netlify.app)|
+| [Toast Notification](https://github.com/isinnur/50projects50days/tree/main/toast-notification)                       |    [27](https://cute-unicorn-5ae9f0.netlify.app)|
