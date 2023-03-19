@@ -28,3 +28,4 @@
 | [Vertical Slider](https://github.com/isinnur/50projects50days/tree/main/double-vertical-slider)                       |    [26](https://tourmaline-horse-108c5f.netlify.app)|
 | [Toast Notification](https://github.com/isinnur/50projects50days/tree/main/toast-notification)                       |    [27](https://cute-unicorn-5ae9f0.netlify.app)|
 | [Github Profiles](https://github.com/isinnur/50projects50days/tree/main/github-profiles)                       |    [28](https://inquisitive-pasca-76c298.netlify.app)|
+| [Double Heart Click](https://github.com/isinnur/50projects50days/tree/main/double-heart-click)                       |    [29](https://dazzling-centaur-ffbc54.netlify.app)|
