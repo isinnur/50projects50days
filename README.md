@@ -30,3 +30,4 @@
 | [Github Profiles](https://github.com/isinnur/50projects50days/tree/main/github-profiles)                       |    [28](https://inquisitive-pasca-76c298.netlify.app)|
 | [Double Heart Click](https://github.com/isinnur/50projects50days/tree/main/double-heart-click)                       |    [29](https://dazzling-centaur-ffbc54.netlify.app)|
 | [Auto Text Effect](https://github.com/isinnur/50projects50days/tree/main/auto-text-effect)                       |    [30](https://silver-ganache-513fed.netlify.app)|
+| [Password Generator](https://github.com/isinnur/50projects50days/tree/main/password-generator)                       |    [31](https://imaginative-starlight-80fced.netlify.app/)|
