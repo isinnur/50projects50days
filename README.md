@@ -31,3 +31,4 @@
 | [Double Heart Click](https://github.com/isinnur/50projects50days/tree/main/double-heart-click)                       |    [29](https://dazzling-centaur-ffbc54.netlify.app)|
 | [Auto Text Effect](https://github.com/isinnur/50projects50days/tree/main/auto-text-effect)                       |    [30](https://silver-ganache-513fed.netlify.app)|
 | [Password Generator](https://github.com/isinnur/50projects50days/tree/main/password-generator)                       |    [31](https://imaginative-starlight-80fced.netlify.app/)|
+| [Checkboxes](https://github.com/isinnur/50projects50days/tree/main/checkboxes)                       |    [32](https://celebrated-flan-b7637d.netlify.app)|
