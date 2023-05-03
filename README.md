@@ -34,3 +34,4 @@
 | [Checkboxes](https://github.com/isinnur/50projects50days/tree/main/checkboxes)                       |    [32](https://celebrated-flan-b7637d.netlify.app)|
 | [Notes App](https://github.com/isinnur/50projects50days/tree/main/notes-app)                       |    [33](https://symphonious-kitten-966f08.netlify.app)|
 | [Animated Countdown](https://github.com/isinnur/50projects50days/tree/main/animated-countdown)                       |    [34](https://gorgeous-medovik-af8260.netlify.app)|
+| [Image Carousel](https://github.com/isinnur/50projects50days/tree/main/image-carousel)                       |    [35](https://taupe-blancmange-40cbd8.netlify.app)|
