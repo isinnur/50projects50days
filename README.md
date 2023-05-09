@@ -36,3 +36,4 @@
 | [Animated Countdown](https://github.com/isinnur/50projects50days/tree/main/animated-countdown)                       |    [34](https://gorgeous-medovik-af8260.netlify.app)|
 | [Image Carousel](https://github.com/isinnur/50projects50days/tree/main/image-carousel)                       |    [35](https://taupe-blancmange-40cbd8.netlify.app)|
 | [Hoverboard](https://github.com/isinnur/50projects50days/tree/main/hoverboard)                       |    [36](https://loquacious-cascaron-49a32a.netlify.app)|
+| [Pokedex](https://github.com/isinnur/50projects50days/tree/main/pokedex)                       |    [37](https://singular-truffle-1249ea.netlify.app)|
