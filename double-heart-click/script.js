@@ -40,5 +40,5 @@ const createHeart = (e) => {
     loveMe.appendChild(heart);
     times.innerHTML = ++timesClicked;
 
-    setTimeout(() => heart.remove(), 1000);
+    setTimeout(() => heart.remove(), 5000);
 }
