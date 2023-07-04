@@ -46,3 +46,4 @@
 | [Custom Range Slider](https://github.com/isinnur/50projects50days/tree/main/custom-range-slider)                   | [44](https://amazing-marshmallow-74ae40.netlify.app)     |
 | [Netflix Navigation](https://github.com/isinnur/50projects50days/tree/main/netflix-navigation)                   | [45](https://6496cda75380a24e7acb9802--phenomenal-sherbet-e6b2ea.netlify.app/)     |
 | [Quiz App](https://github.com/isinnur/50projects50days/tree/main/quizz-app)                   | [46](https://6496ce5c991e3f4f43e56d63--capable-quokka-19c606.netlify.app/)     |
+| [Testimonial Box Switcher](https://github.com/isinnur/50projects50days/tree/main/testimonial-box-switcher)                   | [47](https://64a3e7ac87b248008a21c2c2--prismatic-tiramisu-6dcf2e.netlify.app/)     |
